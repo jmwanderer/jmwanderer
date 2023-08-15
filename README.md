@@ -7,5 +7,5 @@
 
 ### Articles
 
-[![jmwanderer Medium](https://github-readme-medium.vercel.app/?username=jmwanderer)](https://medium.com/@jmwanderer)
+[![jmwanderer Medium](https://github-readme-medium.vercel.app/?username=@jmwanderer&limit=5)](https://medium.com/@jmwanderer)
 
