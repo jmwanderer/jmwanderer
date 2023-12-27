@@ -12,6 +12,7 @@
 - [Build a User Interface with GPT](https://medium.com/@jmwanderer/build-a-user-interface-with-gpt-8bef141e4f5)
 - [Generate a Thought-of-the-Day with ChatGPT](https://medium.com/@jmwanderer/generate-a-thought-of-the-day-with-chatgpt-ce582f2fac4e)
 - [A Brain for the Scarecrow - Teach ChatGPT to play hangman using GTP Actions](https://medium.com/@jmwanderer/a-brain-for-the-scarecrow-92ec379d90f4)
+- [Building a Document with a Custom GPT](https://medium.com/@jmwanderer/build-a-document-with-a-custom-gpt-69dd7bd7b0d2)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
