@@ -13,6 +13,7 @@
 - [Generate a Thought-of-the-Day with ChatGPT](https://medium.com/@jmwanderer/generate-a-thought-of-the-day-with-chatgpt-ce582f2fac4e)
 - [A Brain for the Scarecrow - Teach ChatGPT to play hangman using GTP Actions](https://medium.com/@jmwanderer/a-brain-for-the-scarecrow-92ec379d90f4)
 - [Building a Document with a Custom GPT](https://medium.com/@jmwanderer/build-a-document-with-a-custom-gpt-69dd7bd7b0d2)
+- [Learning Git as a Perforce User](https://medium.com/@jmwanderer/learning-git-as-a-perforce-user-53f63e4e1854)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
