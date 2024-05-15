@@ -14,6 +14,8 @@
 - [A Brain for the Scarecrow - Teach ChatGPT to play hangman using GTP Actions](https://medium.com/@jmwanderer/a-brain-for-the-scarecrow-92ec379d90f4)
 - [Building a Document with a Custom GPT](https://medium.com/@jmwanderer/build-a-document-with-a-custom-gpt-69dd7bd7b0d2)
 - [Learning Git as a Perforce User](https://medium.com/@jmwanderer/learning-git-as-a-perforce-user-53f63e4e1854)
+- [Fun with Routing Protocols](https://medium.com/@jmwanderer/fun-with-routing-protocols-8a0677aab2fc?source=friends_link&sk=c613efc101f2bcbdc9824566672e468f)
+- [Don't Get Scammed!](https://medium.com/@jmwanderer/dont-get-scammed-d6745cf42a6b?source=friends_link&sk=c120fd2b107c0543697dbef872d79b05)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
