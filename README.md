@@ -16,6 +16,8 @@
 - [Learning Git as a Perforce User](https://medium.com/@jmwanderer/learning-git-as-a-perforce-user-53f63e4e1854)
 - [Fun with Routing Protocols](https://medium.com/@jmwanderer/fun-with-routing-protocols-8a0677aab2fc?source=friends_link&sk=c613efc101f2bcbdc9824566672e468f)
 - [Don't Get Scammed!](https://medium.com/@jmwanderer/dont-get-scammed-d6745cf42a6b?source=friends_link&sk=c120fd2b107c0543697dbef872d79b05)
+- [Visualizing Satellite Systems](https://medium.com/@jmwanderer/visualizing-satellite-systems-c81a66585234?source=friends_link&sk=bac826a7bf83aeb3aba435be9667abfb)
+- [Simulating Satellite Networks](https://medium.com/@jmwanderer/simulating-satellite-networks-897dd3cb1468?source=friends_link&sk=c502e504c1a61d6d31b4c1352f29aa9a)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
