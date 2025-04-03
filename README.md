@@ -20,6 +20,8 @@
 - [Simulating Satellite Networks](https://medium.com/@jmwanderer/simulating-satellite-networks-897dd3cb1468?source=friends_link&sk=c502e504c1a61d6d31b4c1352f29aa9a)
 - [Building a Sound Activated Audio Recorder](https://medium.com/@jmwanderer/building-a-sound-activated-audio-recorder-4b7052f36388?source=friends_link&sk=d054a9db09538d1ac232e399ae6a8a0e)
 - [Contribute to Open Source Software?](https://medium.com/@jmwanderer/contribute-to-open-source-software-a8332b99f310?source=friends_link&sk=94b772afd77729d7b72992b5558e5489)
+- [Revisiting Email Servers](https://medium.com/@jmwanderer/a505f454b8f5)
+- [Gaming with GPTs](https://medium.com/@jmwanderer/1287039ac702)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
