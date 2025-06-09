@@ -22,6 +22,8 @@
 - [Contribute to Open Source Software?](https://medium.com/@jmwanderer/contribute-to-open-source-software-a8332b99f310?source=friends_link&sk=94b772afd77729d7b72992b5558e5489)
 - [Revisiting Email Servers](https://medium.com/@jmwanderer/a505f454b8f5)
 - [Gaming with GPTs](https://medium.com/@jmwanderer/1287039ac702)
+- [Automation with CSV Files](https://medium.com/@jmwanderer/automation-with-csv-files-a05d6ebdc7b8)
+- [Using Multiple IPv6 Subnets with ATT Fiber and pfSense](https://medium.com/@jmwanderer/using-multiple-ipv6-subnets-with-att-fiber-and-pfsense-1b2dd65fae1a)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
