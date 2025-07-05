@@ -24,6 +24,7 @@
 - [Gaming with GPTs](https://medium.com/@jmwanderer/1287039ac702)
 - [Automation with CSV Files](https://medium.com/@jmwanderer/automation-with-csv-files-a05d6ebdc7b8)
 - [Using Multiple IPv6 Subnets with ATT Fiber and pfSense](https://medium.com/@jmwanderer/using-multiple-ipv6-subnets-with-att-fiber-and-pfsense-1b2dd65fae1a)
+- [Why are we Booting CDROM Images on USB Sticks?](https://medium.com/@jmwanderer/why-are-we-booting-cdrom-images-on-usb-sticks-c50e8b5aac11)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
