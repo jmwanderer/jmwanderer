@@ -25,6 +25,9 @@
 - [Automation with CSV Files](https://medium.com/@jmwanderer/automation-with-csv-files-a05d6ebdc7b8)
 - [Using Multiple IPv6 Subnets with ATT Fiber and pfSense](https://medium.com/@jmwanderer/using-multiple-ipv6-subnets-with-att-fiber-and-pfsense-1b2dd65fae1a)
 - [Why are we Booting CDROM Images on USB Sticks?](https://medium.com/@jmwanderer/why-are-we-booting-cdrom-images-on-usb-sticks-c50e8b5aac11)
+- [Writing an Arduino Library for a UART Based LoRa Device](https://medium.com/@jmwanderer/writing-an-arduino-library-for-a-uart-based-lora-device-9a3e42e91e94)
+- [Fixed: AT&T Fiber, pfSense, and IPv6 Subnets](https://medium.com/@jmwanderer/fixed-at-t-fiber-pfsense-and-ipv6-subnets-d97edd524873)
+- [A Brief Look at RFID/NFC Tech](https://medium.com/@jmwanderer/a-brief-look-at-rfid-nfc-tech-de8b8dd5087f)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
