@@ -28,6 +28,7 @@
 - [Writing an Arduino Library for a UART Based LoRa Device](https://medium.com/@jmwanderer/writing-an-arduino-library-for-a-uart-based-lora-device-9a3e42e91e94)
 - [Fixed: AT&T Fiber, pfSense, and IPv6 Subnets](https://medium.com/@jmwanderer/fixed-at-t-fiber-pfsense-and-ipv6-subnets-d97edd524873)
 - [A Brief Look at RFID/NFC Tech](https://medium.com/@jmwanderer/a-brief-look-at-rfid-nfc-tech-de8b8dd5087f)
+- [A BER-TLV Library for Arduino](https://medium.com/@jmwanderer/a-ber-tlv-library-for-arduino-c52fcf75f780?source=friends_link&sk=f3afb79d65dbf3f77ce96bdd8767671d)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
