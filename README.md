@@ -1,9 +1,14 @@
 
 ### ⚡ Quick Introduction
 
-- 🔭 I’m currently working on applications of AI services
-- 🌱 I’m currently learning <a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus</a>
+- 🔭 I’m currently looking at:
+    - applications of AI servers
+    - using Arduino level controllers
+    - RFID, Lora Radio
 
+- 🌱 I spent time learning:
+    - [Vector Calculus](https://www.coursera.org/learn/vector-calculus-engineers) A fun way to find out how much I forgot. (Look at Kahn academy too!)
+    - PyTorch, Keras, Tensorflow: [jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
 
 ### Articles
 
@@ -29,6 +34,7 @@
 - [Fixed: AT&T Fiber, pfSense, and IPv6 Subnets](https://medium.com/@jmwanderer/fixed-at-t-fiber-pfsense-and-ipv6-subnets-d97edd524873)
 - [A Brief Look at RFID/NFC Tech](https://medium.com/@jmwanderer/a-brief-look-at-rfid-nfc-tech-de8b8dd5087f)
 - [A BER-TLV Library for Arduino](https://medium.com/@jmwanderer/a-ber-tlv-library-for-arduino-c52fcf75f780?source=friends_link&sk=f3afb79d65dbf3f77ce96bdd8767671d)
+- [Writing a Web App with HTMX](https://medium.com/@jmwanderer/writing-a-web-app-with-htmx-66acc090d633?source=friends_link&sk=0e819842cad6b29d59030249a7ffab87)
 
 [jmwanderer Medium](https://medium.com/@jmwanderer)
 
